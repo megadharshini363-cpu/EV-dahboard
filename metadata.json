@@ -1,0 +1,6 @@
+{
+  "name": "Smart EV Dashboard",
+  "description": "Futuristic, professional Smart EV Vehicle Dashboard UI with real-time BMS battery monitoring, 20-cell telemetry, motor controller analytics, CAN logger, and diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
